@@ -1,2 +1,2 @@
-#student Portfolio
-this is my GitHub practice project.
+#student portfolio
+this is my github practice project
